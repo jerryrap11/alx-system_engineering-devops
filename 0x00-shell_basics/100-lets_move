@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mv [[:upper:]]/tmp/u
-=======
-mv [[:upper:]]/tmp/u.
->>>>>>> 165c0279c8cf8a44b2376c566e80f76ed0cfab21
+mv [A-Z]* /tmp/u
